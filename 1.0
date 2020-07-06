@@ -1,0 +1,17 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Collecting pyecharts
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/18/f6/e893384d142fdb05c93d101ac26588db0a075033f2e8abf634b8d76d78bd/pyecharts-1.8.1-py3-none-any.whl (134 kB)
+Collecting simplejson
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/36/59/e8433d95e0683a045060a020624dec653499df73726359d68d567869cbac/simplejson-3.17.0-cp37-cp37m-win_amd64.whl (73 kB)
+Requirement already satisfied: jinja2 in c:\users\dell\anaconda3\envs\acemap\lib\site-packages (from pyecharts) (2.11.2)
+Collecting prettytable
+  Downloading https://pypi.tuna.tsinghua.edu.cn/packages/ef/30/4b0746848746ed5941f052479e7c23d2b56d174b82f4fd34a25e389831f5/prettytable-0.7.2.tar.bz2 (21 kB)
+Requirement already satisfied: MarkupSafe>=0.23 in c:\users\dell\anaconda3\envs\acemap\lib\site-packages (from jinja2->pyecharts) (1.1.1)
+Building wheels for collected packages: prettytable
+  Building wheel for prettytable (setup.py): started
+  Building wheel for prettytable (setup.py): finished with status 'done'
+  Created wheel for prettytable: filename=prettytable-0.7.2-py3-none-any.whl size=13704 sha256=e5ec62c82f6a4fe0e81eaf80ea5fde3ab119bd89b1b2485874604b78063d72ca
+  Stored in directory: c:\users\dell\appdata\local\pip\cache\wheels\44\3e\a7\b6c2602477215f8b7b586ace0bf4050c6ded7afd6f218a6ee7
+Successfully built prettytable
+Installing collected packages: simplejson, prettytable, pyecharts
+Successfully installed prettytable-0.7.2 pyecharts-1.8.1 simplejson-3.17.0
