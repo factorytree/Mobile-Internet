@@ -1,0 +1,10 @@
+file=open('m2v.dbis.w1000.l100.txt.size128.window7.negative5.txt','r')
+line=file.readline()
+print(line)
+line=file.readline()
+print(line)
+line=line.split()
+print(line)
+line=line[1:]
+print(line)
+print(len(line))
